@@ -6,5 +6,5 @@ def add_numbers(nums: int) -> int:
 
 x = add_numbers(100)
 y = add_numbers(1000)
-print(f"Value x: {x}")
-print("Value y: {}".format(y))
+print(f"Value x: {x}") # Using f-string 
+print("Value y: {}".format(y)) # Using string formatting
