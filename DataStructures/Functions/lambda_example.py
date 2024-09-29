@@ -41,3 +41,5 @@ def calculate_square(y, fn):
 g = calculate_square_root(3, square_root)
 h = calculate_square(3, square)
 print("square root: {} and square: {}".format(g, h)) 
+
+
