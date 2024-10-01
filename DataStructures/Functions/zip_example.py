@@ -28,3 +28,5 @@ print(list(result))
 Output:
 [(0, 8, 'P', 4), (1, 9, 'y', 5), (2, 10, 't', 6), (3, 11, 'h', 7)]
 '''
+
+print(tuple(zip(list_2)))
