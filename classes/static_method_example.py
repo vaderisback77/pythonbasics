@@ -109,7 +109,7 @@ if __name__ == "__main__":
     print("Salary after raise amount change {}".format(employee_3.pay))
     print("#" * 100)
 
-    my_date = datetime.date(2024, 11, 29)
+    my_date = datetime.date(2024, 11, 30)
     print(Employee.isworkday(my_date))
 
 
